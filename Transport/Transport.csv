@@ -1,0 +1,165 @@
+?,Filial,Route number,Route name,Routing distance,Working hours (working day),Working hours (Saturday),Working hours (Sunday),Intermediate interval,Bus Model
+1,1,12,Koylik Dehkan Bazaar – Kushbegi District,21.2,5:15-22:56,6:00-22:24,6:00-22:13,11/13/2025,Yutong GAZ
+2,1,15,"Koylik 1st District – ""Friendship"" Metro Station",13.83,5:30-22:19,6:00-21:28,6:00-21:10,15,MAN
+3,1,22,"""Friendship"" Metro Station – Tashkent State Medical University",15.33,5:46-23:21,6:24-22:24,6:10-22:15,11/14/2025,MAN
+4,1,26,Majnuntol  – Alay Bazaar,21.33,6:00-21:35,5:50-22:26 ,5:50-21:48,15-19,SAZ LE 60
+5,1,28,Yangiobod District – Medical Academy,23.24,5:20-21:46,5:30-22:37,5:55-22:35,10/15/2025,Elektrobus
+6,1,37,Domestic Airport Terminal 3 – Tashkent State Medical University,19.7,5:15-22:40 ,5:15-21:53,5:30-21:57,11/14/2025,Elektrobus
+7,1,39,"Food City Shopping Complex, 3rd Metro Station – Tashkent Railway Station",15.11,6:00-22:10,5:55-21:18,5:55-22:16,12/15/2025,SAZ LE 60
+8,1,52,Pilots' Town – Koylik 1st District,4.95,6:00-22:14,6:00-22:14,5:55-21:47,12/17/2025,SAZ LE 60
+9,1,54,"Koylik 1st District – ""Friendship"" Metro Station",19.67,5:30-22:42,6:00-21:34,5:53-21:23,14-18,MAN
+10,1,55,Tashkent Pipe Plant – Istiklol Street,19.68,5:30-23:06,5:50-22:29 ,5:50-22:35,12/14/2025,Yutong GAZ
+11,1,61,Yangiobod District – International Airport Terminal 2,15.64,5:15-21:56,5:25-21:13,05:35-21:21,12/15/2025,Yutong GAZ
+12,1,68,Food City Shopping Complex – Chorsu Shopping Center,24.37,5:20-20:58,5:20-21:46,5:20-21:49,13-16,Yutong GAZ
+13,1,81,Koylik 1st District – Gulobod Street,21.62,5:30-23:51,5:58-22:43,6:00-22:42,11/15/2025,Elektrobus
+14,1,93,"Food City Shopping Complex – Yunusabad District, 9th Block",24.76,5:19-23:11,5:20-22:35,5:20-22:23,10/11/2025,King Long
+15,1,119,Koylik 1st District – Yunusabad Dehkan Bazaar,23.8,5:30-22:11,5:30-22:15,5:57-22:44,13-14,Elektrobus
+16,1,174,"Aviators Bus Station, Jumabazar Fortress – Koylik 1st District",19.33,5:30-23:10,5:30-21:56,5:30-21:43,11/15/2025,Yutong GAZ
+17,1,185,Koylik 1st District – Barkamol ,7.23,6:00-21:40,5:55-21:31,5:55-19:53,20-26,SAZ LE 60
+18,1,13?,Suvsoz District – Tashkent Railway Station,12.84,5:30-21:52,5:55-21:52,5:55-21:42,9/11/2025,Elektrobus
+19,3,3,Navruz Bazaar – Yunusabad Dehkan Bazaar,18.79,5:08-22:15,6:00-23:01,6:00-22:14,14-15,SAZ LE 60
+20,3,14,TTZ Bus Station – Tashkent Railway Station,14.79,5:00-23:51,5:30-23:00,5:30-22:15,8/10/2025,King Long
+21,3,16,TTZ Bus Station – Tashkent Railway Station,16.8,4:49-22:29,6:00-21:49,6:00-21:51,11/14/2025,Yutong GAZ
+22,3,17,A. Yugnakiy District – Chorsu Shopping Center,22.55,6:00-22:26,6:00-21:23,6:00-21:08,11/14/2025,Yutong GAZ
+23,3,24,"TTZ Bus Station – Yunusabad District, 6th Block",21.67,5:30-23:25,5:38-23:10,5:38-22:42,10/13/2025,King Long
+24,3,30,Tashkent State Medical University – Olmos ,18.21,5:30-23:43,5:30-23:07,5:45-22:28,11/15/2025,MAN
+25,3,49,TTZ – Yangiobod District,19.42,5:30-22:40,6:00-21:48,5:53-21:24,13-17,MAN
+26,3,63,Korasuv 1st District – Yunusabad Furniture Store,17.87,5:30-23:44,6:00-22:48,6:00-22:59,11/13/2025,Yutong GAZ
+27,3,72,Aviators – Jami Square,16.48,5:00-22:38,6:00-22:24,6:00-22:09,9/13/2025,Elektrobus
+28,3,80,M. Yusuf Street – South Railway Station,18.27,5:00-22:27,5:30-22:01,6:00-21:59,12/17/2025,MAN
+29,3,83,"Yunusabad District, 6th Block – Excavator Plant Station",17.72,5:30-22:24,6:00-21:34,5:57-21:41,10/14/2025,Elektrobus
+30,3,89,Korasuv 1st District – Chorsu Shopping Center,17.4,5:30-22:44,5:30-21:34,5:30-21:43,10/13/2025,Elektrobus
+31,3,95,"Aviators – Yunusabad District, 15th Block",20.12,5:30-23:45,6:00-22:44,6:00-22:35,13-15,Yutong GAZ
+32,3,96,"Yunusabad District, 9th Block – ""Mashinasozlar"" Metro Station",18.47,5:30-23:02,6:00-22:41,6:00-22:26,11/12/2025,Yutong GAZ
+33,3,128,Food City Shopping Complex – Yangiyul ,31.09,5:42-22:20,5:30-22:05,6:00-21:48,15-17,SAZ LE 60
+34,3,129,"Aviators – Yunusabad District, 17th Block",20.13,5:30-23:37,6:00-23:00,6:00-23:08,11/14/2025,Yutong GAZ
+35,3,136,Chorsu Metro Station – Excavator Plant Station,12.07,5:00-22:28,6:00-21:49,6:00-21:48,11/15/2025,MAN
+36,3,159,Uchhoz  – Navruz Bazaar,10.03,6:00-21:01,6:00-21:02,6:20-20:56,24-25,SAZ LE 60
+37,3,196,Gulobod Street – Obod Makon ,13.83,5:40-20:32,6:30-20:48,6:30-20:48,24-26,SAZ LE 60
+38,3,198,7th City Hospital – Institute of Physical Culture,32.59,5:21-22:23,5:26-21:52,5:30-21:45,16-18,Yutong GAZ/mers
+39,3,199,Excavator Plant Station – Institute of Physical Culture,29.21,5:28-22:30,5:25-22:03,5:40-21:58,10/13/2025,MAN
+40,4,8,"Olchazar  – Chilanzar District, 25th Block",171,5:24-23:45,5:30-23:00,6:00-22:44,7,Elektrobus
+41,4,32,Sergeli 6a District – Gulobod Street,23.57,5:40-22:00,6:00-21:25,6:00-21:34,15-17,Elektrobus
+42,4,38,"Olchazar  – ""Uzbekkishloqmash"" Plant",20.41,5:20-23:42,6:00-23:17,6:00-23:05,9/13/2025,King Long
+43,4,45,Food City Shopping Complex – Kushbegi District,25.65,5:30-23:37,5:59-22:25,6:00-22:10,14,Elektrobus
+44,4,57,Erkin Fortress – Alay Bazaar Station,15.27,5:20-23:31,5:30-23:29,5:40-23:18,10/15/2025,Elektrobus
+45,4,58,Dostlik 2nd District – Excavator Plant Station,22.38,5:00-23:28,5:00-23:20,6:00-23:29,11/14/2025,King Long
+46,4,84,Obod Turmush MCG – Gulobod Street,25.67,5:40-20:57,5:18-20:48,12/16/2025 18:17,15-18,Mersedes
+47,4,122,Rohat Metro Station – Karvon Bazaar Station,2602,5:50-20:45,5:45-20:59,5:45-21:04,12/15/2025,Yutong GAZ
+48,4,132,Yangi Darhon  – Tashkent ,14.73,6:02-21:11,6:00-22:00,6:01-21:56,15-18,Mersedes
+49,4,135,Textile Combine – Nazarbek Fortress,18.3,6:00-20:50,6:00-20:42,6:00-20:51,15-17,SAZ LE 60
+50,4,137,Istiqlol  – New Tashkent,24.64,6:00-21:59,6:00-21:14,6:00-21:24,18-20,Mersedes
+51,4,139,Birlik District – Chilanzar Metro Station,7.72,6:00-23:26,6:00-22:52,6:00-22:57,12,SAZ LE 60
+52,4,143,INDEX Shopping Complex – Babur Square,15.51,6:30-20:33,6:45-20:11,6:45-20:11,25,Mersedes
+53,4,145,Zangiota Pilgrimage Site – Koylik Dehkan Bazaar,19.18,5:30-21:09,5:30-20:54,5:30-20:50,12/14/2025,MAN
+54,4,146,Chorsu Shopping Center – Chinni Bazaar,20.9,5:30-22:16,6:00-23:03,6:00-22:28,12/14/2025,Yutong GAZ
+55,4,154,Bobur  – Zangiota Infectious Diseases Hospital,12.96,6:00-21:44,6:00-21:27,6:00-21:25,15,SAZ LE 60
+56,4,161,Olmazor Metro Station – Kuyoshli Fortress,12.85,6:00-21:37,6:00-21:01,6:00-21:13,12,SAZ LE 60
+57,5,1,Humoyun District – Tashkent State Medical University,15.7,5:35-21:55,6:15-21:19,6:15-21:44,10,MAN
+58,5,18,"Tuzel District, 3rd Block – Chilanzar Metro Station",17.6,5:30-23:01,6:00-22:37,6:00-22:28,11/13/2025,Yutong GAZ
+59,5,19,TTZ Bus Station – Tashkent State Medical University,17.23,5:30-23:49,6:00-23:08,6:00-23:07,10,Elektrobus
+60,5,21,Korasuv 1st District – Tashkent State Medical University,13.25,5:00-23:15,6:00-22:32,6:00-22:23,10/12/2025,MAN
+61,5,44,Aviators – Chorsu Shopping Center,15.33,5:20-23:43,6:00-22:31,6:00-22:07,10/13/2025,Elektrobus
+62,5,50,"Yunusabad District, 9th Block – Chingeldi ",24.72,5:30-22:33,6:00-21:29,6:00-21:40,16-19,MAN
+63,5,60,Tashkent State Medical University – Electrocable Plant,10.11,5:30-22:29,6:00-22:19,6:00-21:59,11/12/2025,Elektrobus
+64,5,97,Tashkent Railway Station – Yunusabad Dehkan Bazaar,12.71,05:30-23:46,6:00-22:43,6:00-23:02,12/14/2025,Elektrobus
+65,5,99,Suvsoz District (Stadium) – Farhod Bazaar,22.22,5:30-23:15,5:30-22:49,5:30-23:08,13-15,YUTONG ???
+66,5,101,"Kibray Children's Camp – ""Buyuk Ipak Yuli"" Metro Station",28.76,5:08-23:53,6:00-22:34,6:00-22:50,12/15/2025,???
+67,5,106,Uchhoz  – Saodat Shopping Center,26.68,5:00-23:35,5:30-22:35,5:30-22:44,14,YUTONG ???
+68,5,110,TTZ Bus Station – Food City Shopping Complex,29.1,5:30-22:41,6:00-22:09,6:00-21:55,16-18,YUTONG ???
+69,5,148,Tashkent Railway Station – Mirishkor ,16.63,5:30-22:23,6:00-21:53,6:00-21:53,10,SAZ LE-60
+70,5,151,"Chingeldi  – ""Buyuk Ipak Yuli"" Metro Station",15.89,6:00-21:45,6:00-22:13,6:00-21:23,11,"???,YUTONG ???"
+71,5,153,Kibray Bus Station – Eco Bazaar,15.4,6:00-21:32,6:00-21:39,6:00-21:53,11/13/2025,SAZ LE-60
+72,5,183,Koylik 1st District – Binokor Fortress,13.88,6:00-21:14,6:00-21:07,6:00-20:38,11/13/2025,SAZ LE-60
+73,5,190,"""Mashinasozlar"" Metro Station – New Tashkent",20.01,5:44-21:24,5:57-21:15,5:57-21:06,10,YUTONG ???
+74,7,2,"Chilanzar District, 25th Block – Darhon Square",20.83,5:30-23:37,6:00-21:56,6:00-22:05,15-17,Elektrobus
+75,7,13,Izza District – Tashkent State Medical University,21.41,5:30-23:22 ,6:00-23:07,6:00-23:28,12/14/2025,YUTONG ???
+76,7,23,Chorsu Metro Station – Farhod Bazaar,9.51,5:30-22:18,06:00-21:39,6:00-21:56,15,???
+77,7,33,Karvon Bazaar Station – Saodat Shopping Center Station,16.1,5:22-23:08,6:00-21:47,6:00-21:09,15,"???, ????????"
+78,7,34,Doctors' Town – Chilanzar Metro Station,15.84,5:30-23:54,6:00-22:49,6:00-22:10,12,YUTONG ???
+79,7,41,"Chilanzar District, 25th Block – Chilanzar Goods Bazaar",8.43,5:40-21:27,6:00-21:04,6:00-21:04,10,YUTONG ???
+80,7,56,Chorsu Shopping Center – Tariqteshar ,19.51,5:00-22:20,6:00-21:45,6:00-21:14,13,???
+81,7,69,Tashkent Railway Station – Karvon Bazaar Station,22.32,5:30-23:39,6:00-22:59,6:00-22:45,12,YUTONG ???
+82,7,70,"Chilanzar District, 20th Block – M. Yusuf Street",20.49,5:00-22:15,6:05-22:37,6:00-21:57,16,YUTONG ???
+83,7,73,Chorsu Metro Station – Chinni Bazaar,19.57,5:20-22:18,6:11-21:52,6:11-21:52,11,???
+84,7,77,"Chilanzar District, 25th Block – Domestic Airport Terminal 3",20.56,5:20-23:49,6:00-23:00,6:00-22:58,11/12/2025,YUTONG ???
+85,7,94,Izza District – International Airport Terminal 2,17.28,5:00-23:21,6:00-22:56,6:00-22:42,12/13/2025,Elektrobus
+86,7,98,"Chilanzar Goods Bazaar – Hotel ""Uzbekistan""",22.53,5:30-23:24,6:00-23:01,6:00-22:56,14,Elektrobus
+87,7,103,Chilanzar Goods Bazaar – Chorsu Shopping Center,17.64,5:30-23:32,6:00-22:26,6:00-22:26,16,???
+88,7,127,"Chilanzar District, 25th Block – Aviators Bus Station",23.73,5:30-22:43,6:00-22:31,6:00-22:25,13,"YUTONG  GAZ, Elektrobus"
+89,7,141,"Karvon Bazaar Station – ""Paxtakor"" Metro Station",16.76,5:24-21:25,6:30-20:53,6:30-20:37,25,???
+90,7,150,"Chilanzar District, 25th Block – Malika Station",19.09,5:30-22:57,6:00-22:08,6:00-22:05,18,SAZ LE-60
+91,7,171,Bozsuv Center – Chilanzar Metro Station,22.48,5:30-23:26,6:00-22:26,6:00-22:26,13-14,????????
+92,7,181,Yangiyul Dehkan Bazaar – Olmazor Metro Station,25.3,5:30-21:16,6:00-21:36,6:00-21:36,18-20,SAZ LE-60
+93,7,9?,"Chilanzar District, 25th Block – Tashkent Railway Station",15.48,5:30-23:13,6:00-22:55,6:00-21:57,8/10/2025,King Long
+94,8,5,Feruza District – Chorsu Shopping Center,19.95,5:30-23:31,6:00-23:39,6:00-23:02,12/15/2025,YUTONG ???
+95,8,6,"Yunusabad District, 6th Block – Yunusabad District, 17th Block",8.8,5:30-22:19,6:00-22:04,6:00-22:04,10,MAN
+96,8,7,"Yunusabad District, 9th Block – Yunusabad District, 19th Block",8.28,5:30-23:55,6:00-22:55,6:00-22:30,10,SAZ LE-60
+97,8,25,"Yunusabad District, 9th Block – Navruz Bazaar",21.61,5:30-21:24,5:30-21:26,6:00-21:35,14-17,???
+98,8,42,"Chorsu Shopping Center – Kensoy Fortress, Collective Farm",20.84,5:20-23:01,5:30-22:38,5:30-22:10,15-18,???
+99,8,43,"Yunusabad District, 6th Block – Phthisiatry Institute Station",16.97,5:30-22:28,5:30-22:21,6:00-22:38,11/13/2025,YUTONG ???
+100,8,51,"Yunusabad District, 6th Block – Beshyogoch Square",12.97,5:15-23:13,6:00-22:28,6:00-22:59,8/11/2025,YUTONG ??????????
+101,8,65,"""Paxtakor"" Metro Station – Sohibkor ",16.26,5:30-22:21,6:00-21:58,6:00-21:47,13-15,????????
+102,8,67,"Yunusabad District, 19th Block – International Airport Terminal 2",18.19,5:05-22:36,5:50-22:46,5:50-22:46,10/12/2025,YUTONG ??????????
+103,8,71,Chukursay Railway Station – Uzumzor District,16.73,5:30-23:10,6:00-22:53,6:00-22:51,15,SAZ LE-60
+104,8,78,Beruni Metro Station – Tashkent Railway Station,21.03,5:30-22:47,6:00-22:46,6:00-22:37,14,YUTONG ???
+105,8,82,"Ibn Sino 1st District – Yunusabad District, 17th Block",22.03,5:30-23:57,6:00-22:53,6:00-22:57,15,YUTONG ???
+106,8,91,"Yunusabad District, 15th Block – Kokcha Mosque Station",16.35,5:30-23:25,6:00-23:07,6:00-23:07,12,YUTONG ??????????
+107,8,100,Korakamish 2/4 District – Beshyogoch Square,18.5,5:30-22:48,5:30-22:30,6:00-22:33,10/12/2025,YUTONG ??????????
+108,8,109,Chorsu Metro Station – Chukursay Railway Station,9.33,5:00-22:57,5:30-21:34,5:30-21:34,10/11/2025,SAZ LE-60
+109,8,115,TashGRES Administrative Building – Gulobod Street,17.95,5:00-22:30,5:15-22:14,5:15-22:04,9,King Long
+110,8,118,Chilanzar Goods Bazaar – Uzposilsavdo,28.18,5:00-23:12,5:00-23:23,5:00-22:52,15,YUTONG ???
+111,8,123,Chorsu Metro Station – Chukursay Railway Station,19.02,5:30-22:31,6:00-22:25,6:00-21:38,22,????????
+112,8,138,Bunyodkor MCG – Beruni Metro Station,9.15,6:00-22:45,6:00-21:59,6:00-21:11,14-15,SAZ LE-60
+113,8,140,"Yunusabad District, 12th Block – Art Institute Station",15.26,5:30-22:52,5:30-22:55,5:30-22:52,12/14/2025,YUTONG ??????????
+114,8,142,Katta Khasanboy  – Tiklanish ,8.95,5:56-22:49,5:56-22:36,6:00-21:46,18-21,SAZ LE-60
+115,8,149,Korasuv 1st District – Yunusabad Dehkan Bazaar,18.47,5:45-22:50,5:45-22:47,5:45-22:50,10/12/2025,YUTONG ???
+116,8,152,Chorsu Shopping Center – Finance Academic Lyceum,13.08,5:30-23:22,6:00-23:13,6:00-23:04,46,SAZ LE-60
+117,8,157,"Yunusabad District, 19th Block – ""Paxtakor"" Metro Station",12.65,5:30-22:02,6:00-20:14,6:00-20:52,45,????????
+118,8,169,Gishtkuprik Border Post – Shakhristan Metro Station,15.07,5:30-23:39,5:50-23:11,5:50-23:03,8/10/2025,????????
+119,8,175,Taraqqiy  – Yunusabad Dehkan Bazaar,13.12,5:30-23:09,5:45-23:02,6:00-21:29,15,SAZ LE-60
+120,12,40,"Sergeli District, 12th Block – Tashkent Railway Station",24.51,5:15-22:11,5:30-22:20,5:30-21:25,12/15/2025,YUTONG ??????????
+121,12,47,Dostlik 2nd District – Gulobod Street,23.45,5:45-22:12,6:15-21:39,6:15-21:16,11/15/2025,YUTONG ???
+122,12,48,Novator ICJ – Al-Khorazmi District,22.26,5:05-23:20,6:00-22:45,6:00-22:17,14,MAN
+123,12,59,Dostlik 2nd District – Karvon Bazaar Station,21.82,5:30-21:11,5:30-20:49,5:30-20:49,11,YUTONG ???
+124,12,62,Dostlik 2nd District – M. Yusuf Street,23.51,5:15-21:28,5:30-21:27,5:30-21:29,12,YUTONG ???
+125,12,66,"Tashkent Railway Station – Military Unit ""Sputnik-17""",27.16,6:00-20:28,6:00-20:28,6:00-20:14,23-25,"???,YUTONG ???"
+126,12,74,Tolaganota Factory – Chilanzar Metro Station,19.41,4:45-22:12,4:45-22:12,04:45-22:12,14,YUTONG ???
+127,12,75,INDEX Shopping Complex – Oktepa Square,18.54,6:00-22:28,6:00-21:22,6:30-21:33,14-16,"YUTONG ??????????, GAZ"
+128,12,86,"Sergeli District, 12th Block – Chilanzar Goods Bazaar",20.07,5:30-21:29,6:00-21:35,6:00-21:55,13,SAZ LE-60
+129,12,104,"Sugdiyona  – ""Kuylyuk"" Metro Station",13.08,6:00-21:38,6:00-20:47,6:00-20:47,20,SAZ LE-60
+130,12,105,Sergeli Fortress – Chilanzar Goods Bazaar,19.45,5:10-22:09,6:00-21:24,6:00-21:24,13-15,MAN
+131,12,112,Olchazar  – Koylik Dehkan Bazaar,17.71,6:00-21:24,6:00-21:17,6:00-20:09,16,SAZ LE-60
+132,12,117,Food City Shopping Complex – Tashkent Pipe Plant,18.97,5:05-21:25,6:00-21:33,6:00-21:41,17,????????
+133,12,126,"Chorsu Shopping Center – ""Kuylyuk"" Metro Station",23.98,5:00-22:09,5:00-21:53,5:00-22:01,12/15/2025,YUTONG ??????????
+134,12,130,Food City Shopping Complex – Olchazar ,32.29,5:00-20:37,5:33-20:51,5:30-20:45,14-16,YUTONG ???
+135,12,131,Dostlik 2nd District – Olimpia District,24.84,5:00-23:47,5:20-23:28,5:20-23:37,10/15/2025,King Long
+136,12,133,Kipchak Metro Station – Food City Shopping Complex,19.29,6:00-22:01,6:00-21:07,6:00-21:07,14,SAZ LE-60
+137,12,144,"Dostlik 2nd District – ""Kuylyuk"" Metro Station",13.42,5:05-19:49,5:05-19:49,5:05-19:49,15,????????
+138,12,156,Kipchak Metro Station – Galaba ,19.17,6:00-21:29,6:00-21:21,6:00-21:03,12/14/2025,SAZ LE-60
+139,12,184,Food City Shopping Complex – Obod Hayot Street,25.68,6:00-22:14,6:00-21:25,6:00-21:43,19-20,SAZ LE-60
+140,18,11,Beltepa District – Domestic Airport Terminal 3,20.9,5:00-23:46,5:00-22:39,5:20-22:39,10/13/2025,King Long
+141,18,20,Ibn Sino 1st District – Gulobod Street,7.19,5:30-21:06,5:30-20:47,5:30-20:47,11/15/2025,SAZ LE-60
+142,18,27,Chorsu Shopping Center – Kokcha Oqlon ,6.21,6:00-20:24,6:00-20:03,5:44-19:49,20,SAZ LE-60
+143,18,29,"Khuvaydo  – ""Paxtakor"" Metro Station",6.22,6:00-22:08,6:00-20:07,6:00-20:07,15-16,SAZ LE-60
+144,18,31,Korakamish 2/4 District – Chinni Bazaar,22.14,5:30-21:49,5:30-21:49,6:00-21:11,12/15/2025,???
+145,18,35,5th Children's Hospital – M. Turgunbayeva Street,13.37,5:00-22:07,5:10-20:56,5:30-20:21,15,SAZ LE-60
+146,18,46,Birlik District – RET Plant,20.67,5:00-23:09,05:30-22:28,6:00-23:10,10,King Long
+147,18,53,"Urikzor District – ""Paxtakor"" Metro Station",16.67,5:20-22:52,5:20-21:59,5:20-21:51,9/10/2025,YUTONG ??????????
+148,18,64,"Birlik District – ""Paxtakor"" Metro Station",13.29,5:55-19:52,05:55-19:58,05:55-19:58,13-15,????????
+149,18,85,Korakamish 2/4 District – Tashkent State Medical University,14.03,5:45-22:31,5:38-22:42,5:38-22:07,13,YUTONG ??????????
+150,18,87,Al-Khorazmi District – Korakamish 2/4 District,21.78,5:30-23:07,5:50-22:55,5:50-22:36,12,YUTONG ???
+151,18,88,Ibn Sino 1st District – M. Yusuf Street,20.46,5:00-21:59,5:30-22:19,6:00-21:47,10/15/2025,King Long
+152,18,113,Chilanzar Metro Station – Aeration Station,7.47,6:00-21:33,6:00-21:45,6:00-22:14,36,SAZ LE-60
+153,18,114,Ibn Sino 2nd District – Textile Combine,19.01,5:10-23:13,5:10-23:12,5:10-23:23,14,YUTONG ???
+154,18,116,Doctors' Town – Chilanzar Goods Bazaar,18.77,5:15-23:55,5:20-22:06,5:20-22:22,12/15/2025,YUTONG ???
+155,18,120,Chorsu Metro Station – Gulistan ,21.16,5:30-22:27,05:15-22:29,5:15-22:35,11,"SAZ LE-60,??? "
+156,18,121,"Yunusabad District, 9th Block – Chinni Bazaar",31.73,5:30-21:26,5:30-20:40,5:30-20:40,12/15/2025,"King Long ,???"
+157,18,124,"Yunusabad District, 9th Block – Beruni Metro Station",12.05,5:30-22:25,5:25-22:27,5:25-22:08,15-16,???
+158,18,125,Urikzor District – Dombirabad Street,14.4,5:20-22:20,5:20-22:33,5:20-21:51,11,YUTONG ???
+159,18,134,South Railway Station – Nazarbek Fortress,14.67,5:30-22:15,5:30-21:59,5:30-21:05,11/14/2025,SAZ LE-60
+160,18,147,Chorsu Shopping Center – Chinni Bazaar,21.77,5:00-20:14,5:00-20:29,5:00-20:21,10/11/2025,YUTONG ???
+161,18,188,"Chorsu Metro Station – ""Ittifoq"" Collective Farm",17.12,5:30-21:18,6:00-19:50,6:00-19:57,15-18,SAZ LE-60
+162,18,8?,Naiman  – Chorsu Metro Station,16.7,5:30-22:43,5:30-22:45,5:30-21:51,14,SAZ LE-60
+163,18,17?,Bekabad District – Chilanzar Goods Bazaar,13.93,5:00-22:03,5:00-21:19,5:00-21:09,9/10/2025,???
+164,Avtosantran-servis,76,Korakamish 2/4 District – International Airport Terminal 2,16.23,5:41-22:39,6:00-21:45,6:00-21:27,11/12/2025,YUTONG ???
